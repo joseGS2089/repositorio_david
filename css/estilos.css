@@ -1,15 +1,15 @@
 
-.table-custom {
-    background-color: #800080; /* Cambia el color de fondo */
-}
+        .table-custom {
+            background-color: #800080; /* Cambia el color de fondo */
+        }
 
-.table-custom th,
-.table-custom td {
-    border-color: #dee2e6; /* Cambia el color de borde */
-    color: #ffffff;
-}
+        .table-custom th,
+        .table-custom td {
+            border-color: #dee2e6; /* Cambia el color de borde */
+            color: #ffffff;
+        }
 
-.table-custom th {
-    background-color: #800080; /* Cambia el color de fondo de las celdas del encabezado */
-    color: #ffffff; /* Cambia el color del texto del encabezado */
-}
+        .table-custom th {
+            background-color: #800080; /* Cambia el color de fondo de las celdas del encabezado */
+            color: #ffffff; /* Cambia el color del texto del encabezado */
+        }
