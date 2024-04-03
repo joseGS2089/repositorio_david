@@ -103,7 +103,7 @@ $query = mysqli_query($conn, $sql);
                                         <label for="descripcion">Add Description:</label>
                                         <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="descripción" value="<?= $row['descripcion'] ?>">
                                     </div>
-                                    <button type="submit" class="btn btn-warning">Save changes</button>
+                                    <button type="submit" class="btn btn-primary">Save changes</button>
                                 </form>
                             </div>
                         </div>
